@@ -1,24 +1,11 @@
-# firebase-auth
+# A Firebase Auth enabled VueJS application
 
-## Project setup
-```
-npm install
-```
+This VueJS project is a Firebase Auth secured web application.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Introduction
 
-### Compiles and minifies for production
-```
-npm run build
-```
+This application authenticates a user against Firebase and passes in Authorization header.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+More details:
+* [Firebase Auth secured NestJs app](https://medium.com/nerd-for-tech/nestjs-firebase-auth-secured-nestjs-resource-server-9649bcebd0de)
+* [Firebase Auth in VueJs client](https://medium.com/nerd-for-tech/vuejs-firebase-auth-in-vuejs-client-83c91a7cf4fd)
